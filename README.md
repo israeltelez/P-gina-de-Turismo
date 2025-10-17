@@ -48,7 +48,3 @@ Feito com ❤️ por **Teles**
 📍 São Paulo – Brasil  
 💻 Estudante de **Ciência da Computação** e **Desenvolvimento Full Stack**  
 
----
-
-## 📷 Screenshot (opcional)
-Se quiser, adicione uma imagem da página aqui:
